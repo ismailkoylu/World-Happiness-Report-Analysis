@@ -34,11 +34,11 @@ Proje şu adımları takip eder:
 1. Repoyu klonlayın:
    ```bash
    git clone [https://github.com/KULLANICI_ADIN/EuroLeague-Player-Scouting-Analysis.git](https://github.com/KULLANICI_ADIN/EuroLeague-Player-Scouting-Analysis.git)
-   
-2.Gerekli kütüphaneleri yükleyin:
+
+   2.Gerekli kütüphaneleri yükleyin:
    ```bash
    pip install pandas requests
 
-3. Notebook'u çalıştırın:
+   3. Notebook'u çalıştırın:
    ```bash
    jupyter notebook EuroLeague_API_Scouting.ipynb
